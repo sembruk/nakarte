@@ -1,12 +1,12 @@
 {
   "main.css": "static/css/main.3bb45dbd.css",
   "main.css.map": "static/css/main.3bb45dbd.css.map",
-  "main.js": "static/js/main.8dde13cd.js",
-  "main.js.map": "static/js/main.8dde13cd.js.map",
+  "main.js": "static/js/main.cf3780a3.js",
+  "main.js.map": "static/js/main.cf3780a3.js.map",
   "mapillary.js": "static/js/mapillary.42e4343a.chunk.js",
   "mapillary.js.map": "static/js/mapillary.42e4343a.chunk.js.map",
   "vendor.css": "static/css/vendor.fa362e68.css",
   "vendor.css.map": "static/css/vendor.fa362e68.css.map",
-  "vendor.js": "static/js/vendor.4d63f2a5.js",
-  "vendor.js.map": "static/js/vendor.4d63f2a5.js.map"
+  "vendor.js": "static/js/vendor.54d2769f.js",
+  "vendor.js.map": "static/js/vendor.54d2769f.js.map"
 }
